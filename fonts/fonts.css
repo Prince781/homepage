@@ -1,0 +1,70 @@
+/* fonts.css */
+@font-face {
+	font-family: OpenSans;
+	font-style: normal;
+	font-weight: 100;
+	src: url('opensans/light.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: normal;
+	font-weight: normal;
+	src: url('opensans/normal.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: normal;
+	font-weight: 600;
+	src: url('opensans/semibold.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: normal;
+	font-weight: bold;
+	src: url('opensans/bold.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: normal;
+	font-weight: 800;
+	src: url('opensans/extrabold.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: italic;
+	font-weight: 100;
+	src: url('opensans/lightitalic.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: italic;
+	font-weight: normal;
+	src: url('opensans/italic.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: italic;
+	font-weight: 600;
+	src: url('opensans/semibolditalic.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: italic;
+	font-weight: bold;
+	src: url('opensans/bolditalic.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	font-style: italic;
+	font-weight: 800;
+	src: url('opensans/extrabolditalic.ttf');
+}
