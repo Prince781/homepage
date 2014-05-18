@@ -5,6 +5,9 @@ function newHPElement(title, color, url) {
 	elem.className = "item";
 	elem.style.backgroundColor = color;
 	elem.setAttribute("href", url);
+	elem.onclick = function() {
+		window.location = url;
+	};
 	elem.innerHTML = title;
 	return elem;
 };
