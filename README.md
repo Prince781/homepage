@@ -1,4 +1,4 @@
 homepage
 ========
 
-Super minimalistic homepage.
+Super minimalist homepage.
