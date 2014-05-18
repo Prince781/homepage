@@ -24,4 +24,15 @@ window.onload = function() {
 		}
 		centerbox.appendChild(elem);
 	}
+	
+	var start = (new Date()).getTime(),
+	    anim = 750;
+	var interv = setInterval(function() {
+		var delta = ((new Date()).getTime() - start);
+		centerbox.style.opacity = (3/5)*Math.pow(delta/anim, 3) + (2/5)*Math.pow(delta/anim, 5);
+	}, 1); // animate opening
+	setTimeout(function() {
+		centerbox.style.opacity = 1;
+		clearInterval(interv);
+	}, anim);
 };
