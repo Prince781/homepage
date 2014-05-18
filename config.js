@@ -9,6 +9,9 @@ window.homepage = [
 	["mangapark", "#d9c9a5", "http://mangapark.com/", {small: true}],
 	["fb", "#d9e2f0", "https://facebook.com/"],
 	["yt", "#dfcbd3", "https://youtube.com/"],
-	["bumbuu", "#d9dde0", "http://bumbuu.com/", {small: true}],
-	["git", "#c9c9c9", "https://github.com/"]
+	["BCAMail", "#d9dde0", "http://webmail.bergen.org/", {small: true}],
+	["git", "#c9c9c9", "https://github.com/"],
+	["ps01", "#d5d9d3", "https://ps01.bergen.org/"],
+	["foolz", "#dfd2d3", "https://archive.foolz.us/"],
+	["prgrmming", "#e2e6d0", "https://reddit.com/r/programming", {small: true}]
 ];
