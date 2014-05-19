@@ -11,7 +11,7 @@ window.homepage = [
 	["yt", "#dfcbd3", "https://youtube.com/"],
 	["BCAMail", "#d9dde0", "http://webmail.bergen.org/", {small: true}],
 	["git", "#c9c9c9", "https://github.com/"],
-	["ps01", "#d5d9d3", "https://ps01.bergen.org/"],
+	["ps", "#d5d9d3", "https://ps01.bergen.org/"],
 	["foolz", "#dfd2d3", "https://archive.foolz.us/"],
-	["prgrmming", "#e2e6d0", "https://reddit.com/r/programming", {small: true}]
+	["prog", "#e2e6d0", "https://reddit.com/r/programming"]
 ];
